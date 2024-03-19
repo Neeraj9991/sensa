@@ -1,0 +1,4 @@
+/data
+/.venv
+notebook/model_a.json
+notebook/model_weights.weights.h5
